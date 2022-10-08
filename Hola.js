@@ -1,1 +1,1 @@
-console.log("Hola soy el arichivo Hola.js")
+console.log("Hola soy el arichivo Hola.js version 2")
